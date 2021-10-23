@@ -1,2 +1,2 @@
 # Octree_for_children
-Creating an octree for the smallest ones
+please, don't use this in your project
